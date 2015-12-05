@@ -1,2 +1,3 @@
 # blogs
 Code I wrote about...
+https://medium.com/@weilandia
